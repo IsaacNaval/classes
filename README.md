@@ -50,7 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://hi-hi-ray.github.io"><img src="https://avatars3.githubusercontent.com/u/13999149?v=4" width="100px;" alt="Raysa Dutra"/><br /><sub><b>Raysa Dutra</b></sub></a><br /><a href="#projectManagement-hi-hi-ray" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://hi-hi-ray.github.io"><img src="https://avatars3.githubusercontent.com/u/13999149?v=4" width="100px;" alt="Raysa Dutra"/><br /><sub><b>Raysa Dutra</b></sub></a><br /><a href="#projectManagement-hi-hi-ray" title="Project Management">📆</a> <a href="#tutorial-hi-hi-ray" title="Tutorials">✅</a> <a href="#talk-hi-hi-ray" title="Talks">📢</a> <a href="#eventOrganizing-hi-hi-ray" title="Event Organizing">📋</a> <a href="#content-hi-hi-ray" title="Content">🖋</a></td>
   </tr>
 </table>
 
