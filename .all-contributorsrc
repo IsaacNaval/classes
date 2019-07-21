@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "hi-hi-ray",
+      "name": "Raysa Dutra",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13999149?v=4",
+      "profile": "https://hi-hi-ray.github.io",
+      "contributions": [
+        "projectManagement",
+        "tutorial",
+        "talk",
+        "eventOrganizing",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "classes",
+  "projectOwner": "mcc-infnet",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
