@@ -7,7 +7,7 @@ Esse repositório tem como objetivo trazer todas as aulas dadas no clube da Mozi
 
 ### Primeira Aula: HTML5
 #### Tutor Principal: [Raysa Dutra](https://hi-hi-ray.github.io)
-##### Material: [O material se encontra na branch aula-1]()
+##### Material: [O material se encontra na branch aula-1](https://docs.google.com/presentation/d/1kEL8433PIB6m1GntEp2NulYS-refUvZALolb6LIZyik/edit?usp=sharing)
 ###### Data: 17 de Agosto de 2019
 
 
